@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Isep Diamniadio</string>
+
+    <string name="ajoutApp">Ajouter un apprenant</string>
+    <string name="listApp">Liste des apprenants</string>
+
+    <string name="ajoutFor">Ajouter une formation</string>
+    <string name="listFor">Liste des formations</string>
+
+    <string name="ajoutPro">Ajouter une Promotion</string>
+    <string name="listPro">Liste des Promotions</string>
+
+    <string name="ajoutDep">Ajouter un Departement</string>
+    <string name="listDep">Liste des Departement</string>
+
+    <string name="numero_promo">Numéro Promo</string>
+    <string name="debut_promo">Année de Debut </string>
+    <string name="fin_promo">Année de Fin </string>
+
+    <string name="label_matricule">Matricule Apprenant</string>
+    <string name="label_nom">Nom </string>
+    <string name="label_prenom">Prenom </string>
+    <string name="date_naissanec">Date de naissance</string>
+    <string name="label_adresse">Adresse </string>
+    <string name="label_promo">Promotion </string>
+    <string name="label_formation">Formation </string>
+    <string name="label_dept">Departement </string>
+
+    <string name="code_for">Code formation</string>
+    <string name="desc_for">Description </string>
+
+    <string name="num_classe">Numéro Classe</string>
+    <string name="label_resp">Responsable </string>
+    <string name="ajout_classe">Ajouter une Classe </string>
+
+    <string name="button_save">ENREGISTRER</string>
+    <string name="button_exit">ANNULER</string>
+
+
+</resources>

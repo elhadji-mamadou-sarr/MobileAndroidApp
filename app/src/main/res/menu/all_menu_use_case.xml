@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <group>
+            <item android:id="@+id/itemAddApp" android:title="@string/ajoutApp"/>
+            <item android:id="@+id/itemListApprenant" android:title="@string/listApp"/>
+        </group>
+
+        <group>
+            <item android:id="@+id/itemajoutFormateur" android:title="@string/ajoutFor"/>
+            <item android:id="@+id/itemListformateur" android:title="@string/listFor"/>
+        </group>
+
+        <group>
+            <item android:id="@+id/itemajoutPromotion" android:title="@string/ajoutPro"/>
+            <item android:id="@+id/itemListPromotion" android:title="@string/listPro"/>
+        </group>
+    <group>
+        <item android:id="@+id/itemajoutDepartement" android:title="@string/ajoutDep"/>
+        <item android:id="@+id/itemListDepartement" android:title="@string/listDep"/>
+    </group>
+   <!--
+    <group>
+        <item android:id="@+id/itemajoutClasse" android:title="@string/ajout_classe"/>
+    </group>-->
+</menu>
